@@ -6,4 +6,7 @@ Path Integrals and shit
 
  - ~~Comment and Modularize code~~
  - ~~Write doc up~~
- - Think of next steps
+ - ~~Finish poster~~
+ - Think of extension
+ - Do it 
+ - Write Report/Presentation poster
