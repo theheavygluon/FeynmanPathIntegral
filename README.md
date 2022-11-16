@@ -7,6 +7,6 @@ Path Integrals and shit
  - ~~Comment and Modularize code~~
  - ~~Write doc up~~
  - ~~Finish poster~~
- - Think of extension
+ - Think of extension (QC? QFT?)
  - Do it 
  - Write Report/Presentation poster
