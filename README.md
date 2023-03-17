@@ -1,5 +1,5 @@
 # FeynmanPathIntegral
-Path Integrals and shit 
+Path Integrals and shit
 
 
 ## To do list:
@@ -7,6 +7,7 @@ Path Integrals and shit
  - ~~Comment and Modularize code~~
  - ~~Write doc up~~
  - ~~Finish poster~~
- - Think of extension (QC? QFT?)
- - Do it 
- - Write Report/Presentation poster
+ - Fix Report/Poster
+ - QFT notebook
+ - Lattice notebook (50% done)
+ - formulate into "MCMC/Euclidean time" course
